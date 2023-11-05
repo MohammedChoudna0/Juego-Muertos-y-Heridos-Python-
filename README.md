@@ -51,10 +51,9 @@ Instala las dependencias del proyecto desde el archivo requirements.txt:
 
     pip install -r requirements.txt
     
-Ejecuta el juego:
+Ejecuta el juego
 
 
-python main.py
 ## Uso
 - Abre el juego.
 - Ingresa un número de cuatro dígitos en el campo de entrada.
