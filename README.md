@@ -33,6 +33,10 @@
 
       pip install packaging
 
+- [Pillow](https://pypi.org/project/Pillow/)
+
+      pip install Pillow
+
 ## Instalación
 
 1. Clona este repositorio:
@@ -41,40 +45,21 @@
    git clone https://github.com/MohammedChoudna0/Juego-Muertos-y-Heridos-Python-.git
 Ve al directorio del proyecto:
 
-bash
-Copy code
-cd juego-muertos-heridos
+
 Instala las dependencias del proyecto desde el archivo requirements.txt:
 
-bash
-Copy code
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
+    
 Ejecuta el juego:
 
-bash
-Copy code
+
 python main.py
-Uso
-Abre el juego.
-Ingresa un número de cuatro dígitos en el campo de entrada.
-Presiona el botón "Comprobar" para verificar tu suposición.
-El juego te dará pistas en forma de "muertos" y "heridos".
-Si adivinas el número, ¡ganarás el juego!
-Puedes optar por guardar los resultados de la partida o reiniciar el juego.
-Registro de Cambios
-Versión 1.0 ():
+## Uso
+- Abre el juego.
+- Ingresa un número de cuatro dígitos en el campo de entrada.
+- Presiona el botón "Comprobar" para verificar tu suposición.
+- El juego te dará pistas en forma de "muertos" y "heridos".
+- Si adivinas el número, ¡ganarás el juego!
+- Puedes optar por guardar los resultados de la partida o reiniciar el juego.
 
-Juego inicial con funcionalidad básica.
-Versión 1.1 (Fecha de lanzamiento):
-
-Se agregó la opción de guardar resultados de la partida.
-Se mejoró la interfaz de usuario.
-Corrección de errores menores.
-Contribuir
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-Crea un fork del proyecto en GitHub.
-Crea una nueva rama para tu contribución: git checkout -b mi-contribucion
-Realiza tus cambios y commitea tus contribuciones: git commit -m 'Añadir nueva característica'
-Empuja tus cambios a tu repositorio en GitHub: git push origin mi-contribucion
-Crea una solicitud de extracción (Pull Request) en GitHub.
