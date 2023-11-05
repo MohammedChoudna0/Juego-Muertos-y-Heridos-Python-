@@ -1,7 +1,4 @@
-
-from Entidades.Menu import *
-
-
+from Entidades.Menu import GameApp
 
 DEBUG_MODE = True
 
