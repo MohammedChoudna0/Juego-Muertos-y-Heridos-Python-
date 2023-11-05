@@ -3,7 +3,7 @@
 
 **Nombre del juego**: Juego de Muertos y Heridos
 
-**Autor**: [Tu nombre]
+**Autor**: [Mohammed Choudna]
 
 **Descripción**: Este es un juego de lógica en el que debes adivinar un número secreto de cuatro dígitos. El juego te proporcionará pistas en forma de "muertos" y "heridos" para ayudarte a adivinar el número correcto.
 
@@ -38,7 +38,7 @@
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/juego-muertos-heridos.git
+   git clone https://github.com/MohammedChoudna0/Juego-Muertos-y-Heridos-Python-.git
 Ve al directorio del proyecto:
 
 bash
