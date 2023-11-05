@@ -1,4 +1,3 @@
-# Juego-Muertos-y-Heridos-Python
 # Juego de Muertos y Heridos
 
 **Nombre del juego**: Juego de Muertos y Heridos
