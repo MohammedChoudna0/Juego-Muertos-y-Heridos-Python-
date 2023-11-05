@@ -1,6 +1,6 @@
 from Entidades.Menu import GameApp
 
-DEBUG_MODE = True
+DEBUG_MODE = False
 
 
 game_app = GameApp(DEBUG_MODE)
