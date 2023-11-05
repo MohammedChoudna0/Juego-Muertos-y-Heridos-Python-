@@ -1,4 +1,4 @@
-[requirements.txt](https://github.com/MohammedChoudna0/Juego-Muertos-y-Heridos-Python-/files/13258203/requirements.txt)# Juego de Muertos y Heridos
+# Juego de Muertos y Heridos
 
 **Nombre del juego**: Juego de Muertos y Heridos
 
@@ -50,10 +50,7 @@ Instala las dependencias del proyecto desde el archivo requirements.txt:
 [Uploading requirements.# Archivo requirements.txt para el juego "Juego de Muertos y Heridos"
 
 # Dependencias del juego
-customtkinter==5.2.1   # Biblioteca personalizada para GUI
-packaging==23.2
-Pillow==10.0.1        
-txt…]()
+[requirements.txt](https://github.com/MohammedChoudna0/Juego-Muertos-y-Heridos-Python-/files/13258203/requirements.txt)
 
     pip install -r requirements.txt
     
